@@ -5,7 +5,7 @@
 </p>
 
 We bring you...
-- Your favorite images, dockerized
+- Your favorite images, dockerized for [EasyPanel](https://github.com/easypanel-io)
 - [A giant community](https://discord.gg/9bcDSXcZQ7)
 - Timely, yet accurate updates
 
