@@ -8,3 +8,7 @@ We bring you...
 - Your favorite images, dockerized
 - [A giant community](https://discord.gg/9bcDSXcZQ7)
 - Timely, yet accurate updates
+
+Where you can find us...
+- [Roadmap](https://roadmap.scalable.gg)
+- [Our Templates](https://github.com/Easypanel-Community/.github/blob/main/our-templates.md#our-community-templates)
