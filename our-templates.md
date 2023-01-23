@@ -15,7 +15,6 @@ Here is a list of all the templates on Easypanel, created by our members!
 | Fider                     | https://easypanel.io/docs/templates/fider         |
 | Filezilla                 | https://easypanel.io/docs/templates/filezilla     |
 | Firefox                   | https://easypanel.io/docs/templates/firefox       |
-| Flarum                    | https://easypanel.io/docs/templates/flarum        |
 | Freescout                 | https://easypanel.io/docs/templates/freescout     |
 | FreshRSS                  | https://easypanel.io/docs/templates/freshrss      |
 | HasteBin                  | https://easypanel.io/docs/templates/hastebin      |
