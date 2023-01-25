@@ -52,3 +52,18 @@ Here is a list of all the templates on Easypanel, created by our members!
 | Visual Studio Code Server | https://easypanel.io/docs/templates/vscode-server |
 | Weblate                   | https://easypanel.io/docs/templates/weblate       |
 | Wg-easy                   | https://easypanel.io/docs/templates/wg-easy       |
+| Chatwoot  | Coming Soon|
+| Wakapi | Coming Soon|
+| Oxigen | Coming Soon|
+| Limesurvey | Coming Soon|
+| Codex.Docs | Coming Soon|
+| Documize | Coming Soon|
+| Zipline | Coming Soon|
+| SuiteCRM | Coming Soon|
+| Odoo | Coming Soon|
+| Barrage | Coming Soon|
+| Authorizer | Coming Soon|
+| Typesense | Coming Soon|
+| HumHub | Coming Soon|
+| Outline | Coming Soon|
+| Actual | Coming Soon|
