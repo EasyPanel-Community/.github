@@ -1,6 +1,8 @@
 # Our Community Templates
 Here is a list of all the templates on Easypanel, created by our members!
 
+View our [Roadmap](https://roadmap.easypanel.community) for the most up to date list and to request more!
+
 |       **Template**        |                     **Link**                      |
 | :-----------------------: | :-----------------------------------------------: |
 |          Actual           |                    Coming Soon                    |

@@ -10,7 +10,7 @@ We bring you...
 - Timely, yet accurate updates
 
 Where you can find us...
-- [Roadmap](https://roadmap.scalable.gg)
+- [Roadmap](https://roadmap.easypanel.community)
 - [Our Templates](https://github.com/Easypanel-Community/.github/blob/main/our-templates.md#our-community-templates)
 
 
