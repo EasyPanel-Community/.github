@@ -1,5 +1,6 @@
 # Our Community Templates
 Here is a list of all the templates on Easypanel, created by our members! - `77` total
+
 Most contributed by: [Supernova3339](https://github.com/supernova3339) - `70` total 🎉
 
 View our [Roadmap](https://roadmap.easypanel.community) for the most up to date list and to request more!
