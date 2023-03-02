@@ -1,13 +1,14 @@
 # Our Community Templates
 Here is a list of all the templates on Easypanel, created by our members! - `77` total
 
-Most contributed by: [Supernova3339](https://github.com/supernova3339) - `70` total 🎉
+Most contributed by: [Supernova3339](https://github.com/supernova3339) - `80` total 🎉
 
 View our [Roadmap](https://roadmap.easypanel.community) for the most up to date list and to request more!
 
 |       **Template**        |                     **Link**                      |
 |:-------------------------:|:-------------------------------------------------:|
 |          Actual           |  https://easypanel.io/docs/templates/actualbudget |
+|       Active Pieces       |  https://easypanel.io/docs/templates/activepieces |
 |        AnonUpload         |  https://easypanel.io/docs/templates/anonupload   |
 |          Answer           |   https://easypanel.io/docs/templates/answer      |
 |        Authorizer         |  https://easypanel.io/docs/templates/authorizer   |
@@ -17,6 +18,8 @@ View our [Roadmap](https://roadmap.easypanel.community) for the most up to date 
 |         Chatwoot          |   https://easypanel.io/docs/templates/chatwoot    |
 |        Codex.Docs         |   https://easypanel.io/docs/templates/codex-docs  |
 |           Coral           |  https://easypanel.io/docs/templates/coralproject |
+|         Clickhouse        |  https://easypanel.io/docs/templates/clickhouse   |
+|          CubeJS           |    https://easypanel.io/docs/templates/cubejs     |
 |         CyberChef         |  https://easypanel.io/docs/templates/cyberchef    |
 |         Documize          |   https://easypanel.io/docs/templates/documize    |
 |          Element          |    https://easypanel.io/docs/templates/element    |
@@ -24,6 +27,7 @@ View our [Roadmap](https://roadmap.easypanel.community) for the most up to date 
 |           Fider           |     https://easypanel.io/docs/templates/fider     |
 |         Filezilla         |   https://easypanel.io/docs/templates/filezilla   |
 |          Firefox          |    https://easypanel.io/docs/templates/firefox    |
+|         Fireshare         |    https://easypanel.io/docs/templates/fireshare  |
 |         Freescout         |   https://easypanel.io/docs/templates/freescout   |
 |         FreshRSS          |   https://easypanel.io/docs/templates/freshrss    |
 |          Hammond          |   https://easypanel.io/docs/templates/hammond     |
@@ -40,6 +44,7 @@ View our [Roadmap](https://roadmap.easypanel.community) for the most up to date 
 |         Jirafeau          |   https://easypanel.io/docs/templates/jirafeau    |
 |          Kavita           |    https://easypanel.io/docs/templates/kavita     |
 |           Komga           |     https://easypanel.io/docs/templates/komga     |
+|      Language Tool        |  https://easypanel.io/docs/templates/languagetool |
 |         Lenpaste          |   https://easypanel.io/docs/templates/lenpaste    |
 |       Libre Office        |  https://easypanel.io/docs/templates/libreoffice  |
 |        Limesurvey         |   https://easypanel.io/docs/templates/limesurvey  |
@@ -56,6 +61,7 @@ View our [Roadmap](https://roadmap.easypanel.community) for the most up to date 
 |          OneDev           |   https://easypanel.io/docs/templates/onedev      |
 |          Outline          |   https://easypanel.io/docs/templates/outline     |
 |          Owncast          |   https://easypanel.io/docs/templates/owncast     |
+|         Owncloud          |   https://easypanel.io/docs/templates/owncloud    |
 |          Oxigen           |   https://easypanel.io/docs/templates/oxigen      |
 |       Paperless-ngx       | https://easypanel.io/docs/templates/paperlessngx  |
 |          Pidgin           |    https://easypanel.io/docs/templates/pidgin     |
@@ -74,7 +80,9 @@ View our [Roadmap](https://roadmap.easypanel.community) for the most up to date 
 |          Sonarr           |    https://easypanel.io/docs/templates/sonarr     |
 |         Sshwifty          |   https://easypanel.io/docs/templates/sshwifty    |
 |         SuiteCRM          |   https://easypanel.io/docs/templates/suitecrm    |
+|     Supertokens Core      |https://easypanel.io/docs/templates/supertokens-core|
 |         Tautuilli         |   https://easypanel.io/docs/templates/tautulli    |
+|          Typebot          |   https://easypanel.io/docs/templates/typebot     |
 |         Typesense         |   https://easypanel.io/docs/templates/typesense   |
 |           Umami           |     https://easypanel.io/docs/templates/umami     |
 |        Vaultwarden        |  https://easypanel.io/docs/templates/vaultwarden  |
@@ -83,4 +91,6 @@ View our [Roadmap](https://roadmap.easypanel.community) for the most up to date 
 |          Wakapi           |   https://easypanel.io/docs/templates/wakapi      |
 |          Weblate          |    https://easypanel.io/docs/templates/weblate    |
 |          Wg-easy          |    https://easypanel.io/docs/templates/wg-easy    |
+|          Windmill         |    https://easypanel.io/docs/templates/windmill   |
+|           Wizarr          |    https://easypanel.io/docs/templates/wizarr     |
 |          Zipline          |   https://easypanel.io/docs/templates/zipline     |
